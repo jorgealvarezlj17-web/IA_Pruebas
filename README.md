@@ -1,1 +1,1 @@
-# IA_Pruenas
+# IA_Prubas
